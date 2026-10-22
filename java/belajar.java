@@ -10,7 +10,7 @@ public class belajar {
             "EEEE, dd MMMM yyyy",
             Locale.forLanguageTag("id-ID"));
         System.out.println("Hari ini" + hari.format(fmt)
-            + ", saya belajar Library di Java");
+            + ", saya belajar Library di bahasa Java");
     }
 }
 
