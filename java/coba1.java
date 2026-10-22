@@ -1,4 +1,4 @@
-public class coba1 {
+class coba1{
     public static void main(String[] args) {
         String nim = "I.110186";
         String nama = "Ruhammad Encep";
